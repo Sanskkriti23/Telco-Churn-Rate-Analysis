@@ -43,12 +43,6 @@ Attempt 2 uses GridSearchCV to tune hyper parameters and also kfold cross valida
 ### Clustering
 - Kprototypes
 
-
-## Team Members
-Soh Zu Wei - Classification Models (with gridsearchcv, kfold & one-hot-encoding)  
-Sanskkriti - Data Preparation and Exploratory Data Analysis  
-Jue Lin - Clustering Models (Kprototypes)  
-
 ## Conclusion / Insights
 - The four classification models provide similar accuracy results but based off on consistency, the two best classification model that the telco can use is Logistic Regression and Support Vector Classifier (median accuracy of 0.8)
 - This implies that given a set of customer data, the telco will be able to predict whether the customer will churn or not with a good amount of accuracy and consistency, and thereby, this will help them to find out which customer are likely to churn. By finding out the customers that are likely to churn, the telco can actively work towards trying to retain these customers who are more likely to churn than those who are not.
